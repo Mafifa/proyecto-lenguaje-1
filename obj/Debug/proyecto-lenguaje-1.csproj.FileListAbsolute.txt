@@ -1,0 +1,7 @@
+C:\Users\PC\Desktop\Proyectos\proyecto-lenguaje-USM-1\proyecto-lenguaje-1\obj\Debug\proyecto-lenguaje-1.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Proyectos\proyecto-lenguaje-USM-1\proyecto-lenguaje-1\obj\Debug\proyecto-lenguaje-1.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Proyectos\proyecto-lenguaje-USM-1\proyecto-lenguaje-1\bin\Debug\proyecto-lenguaje-1.exe.config
+C:\Users\PC\Desktop\Proyectos\proyecto-lenguaje-USM-1\proyecto-lenguaje-1\bin\Debug\proyecto-lenguaje-1.exe
+C:\Users\PC\Desktop\Proyectos\proyecto-lenguaje-USM-1\proyecto-lenguaje-1\bin\Debug\proyecto-lenguaje-1.pdb
+C:\Users\PC\Desktop\Proyectos\proyecto-lenguaje-USM-1\proyecto-lenguaje-1\obj\Debug\proyecto-lenguaje-1.exe
+C:\Users\PC\Desktop\Proyectos\proyecto-lenguaje-USM-1\proyecto-lenguaje-1\obj\Debug\proyecto-lenguaje-1.pdb
