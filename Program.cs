@@ -17,16 +17,16 @@ namespace proyecto_lenguaje_1
                 // Mostrar el menu
                 Menu menu = new Menu();
 
-                // Colocar el cursor después de "Selecciona una opción: "
+                // Colocar el cursor después de Selecciona una opción
                 int filaSeleccion = Console.CursorTop - 1;
                 int longitudSeleccion= "Selecciona una opción: ".Length;
                 int espaciosParaCentrar = (Console.WindowWidth - longitudSeleccion) / 2;
                 Console.SetCursorPosition(espaciosParaCentrar + longitudSeleccion, filaSeleccion);
 
-                // Leer la opción del usuario
+                // Leer la opciIon
                 string entradaUsuario = Console.ReadLine();
 
-                // Procesar la opción
+                // Procesar la opcion
                 switch (entradaUsuario)
                 {
                     case "1":
